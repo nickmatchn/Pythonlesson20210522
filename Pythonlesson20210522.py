@@ -14,3 +14,11 @@ class Student:
         print("我在讀書")
 s = Student()
 print(s)
+
+
+>>
+請輸入名字TOM
+我出現了，名字是 TOM
+我在寫作業 英文
+我在讀書
+<__main__.Student object at 0x7ff89e8a6d60>
